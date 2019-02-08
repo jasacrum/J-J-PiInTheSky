@@ -11,4 +11,4 @@ The resources we have available to us for this project are anything from the CHS
 #### Initial Design
 Our initial design for this project consists of an enclosure made out foam board. This enclosure will hold all of the components of our project in place. On top of the enclosure a parachute will be attached to slow down the fall of the Pi while it descends back to the ground. Future additions may include putting the parachute into a cap that, when it is at the vertext of it's flight, releases the parachute out. This would stand in place of just having the parachute freely attached to the top. 
 
-![alt text](https://github.com/jasacrum/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/jasacrum/markdown-here/raw/master/src/common/images/IMG_4080.JPG "A quick sketch of our plan")
