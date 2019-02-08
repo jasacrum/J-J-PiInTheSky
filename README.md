@@ -14,3 +14,10 @@ Our initial design for this project consists of an enclosure made out foam board
 <p align="center">
   <img width="300" height="500" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
 </p>
+
+#### Projected Schedule
+
+| Date | Goald |
+| --- | --- |
+| Date | What we need to do |
+| Date | What we need to do |
