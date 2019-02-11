@@ -17,7 +17,20 @@ Our initial design for this project consists of an enclosure made out foam board
 
 #### Projected Schedule
 
-| Date | Goald |
+| Date | Goal |
 | --- | --- |
-| Date | What we need to do |
-| Date | What we need to do |
+| 2-18-19 | Begin solidworks design ttttteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee| |
+| 2-25-19 | What we need to do |
+| 3-4-19  | What we need to do |
+| 3-11-19 | What we need to do |
+| 3-18-19 | What we need to do |
+| 3-25-19 | What we need to do |
+| 4-1-19  | What we need to do |
+| 4-8-19  | What we need to do |
+| 4-15-19 | What we need to do |
+| 4-22-19 | What we need to do |
+| 4-29-19 | What we need to do |
+| 5-6-19  | What we need to do |
+| 5-13-19 |
+| 5-20-19 |
+| 5-27-19 |
