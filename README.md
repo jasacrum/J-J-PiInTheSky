@@ -20,12 +20,12 @@ Our initial design for this project consists of an enclosure made out foam board
 | Date | Goal |
 | --- | --- |
 | 2-18-19 | Begin solidworks design |
-| 2-25-19 | Finish Solid Works design |
-| 3-4-19  | Cut foam board box and test |
+| 2-25-19 | Keep working on solidowokrs design |
+| 3-4-19  | Finish solidworks |
 | 3-11-19 | Make any corrections to the box and start code |
 | 3-18-19 | Continue working on code |
 | 3-25-19 | Start to fully assemble the box |
-| 4-1-19  | Catching up on anything we need to |
+| 4-1-19  | Break |
 | 4-8-19  | More fixing unexpected errors |
 | 4-15-19 | Completely assemble the box |
 | 4-22-19 | Test the parachute |
