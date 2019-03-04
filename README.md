@@ -35,3 +35,25 @@ Our initial design for this project consists of an enclosure made out foam board
 | 5-13-19 | Finish code |
 | 5-20-19 | Put everything together completely |
 | 5-27-19 | Done |
+
+
+#### Documentation
+
+| Date | What We Accomplished |
+| --- | --- |
+| 2-18-19 | This week we started to construct our walls in Solid Works |
+| 2-25-19 | We finished our walls and assembled the box on Solid Works |
+| 3-4-19  | Printed walls and made box |
+| 3-11-19 |  |
+| 3-18-19 |  |
+| 3-25-19 |  |
+| 4-1-19  | Break |
+| 4-8-19  |  |
+| 4-15-19 |  |
+| 4-22-19 |  |
+| 4-29-19 |  |
+| 5-6-19  |  |
+| 5-13-19 |  |
+| 5-20-19 |  |
+| 5-27-19 |  |
+
