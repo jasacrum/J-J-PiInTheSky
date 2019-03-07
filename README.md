@@ -43,7 +43,7 @@ Our initial design for this project consists of an enclosure made out foam board
 | --- | --- |
 | 2-18-19 | This week we started to construct our walls in Solid Works |
 | 2-25-19 | We finished our walls and assembled the box on Solid Works |
-| 3-4-19  | Printed walls and made box |
+| 3-4-19  | This week we laser cut out walls, printed our parachute holders, and assembled the box to make sure it worked. It seems a little heavier than we wanted it to be, but with the right parachute, it will work perfectly. Update, we are going to try to make our own parachute!|
 | 3-11-19 |  |
 | 3-18-19 |  |
 | 3-25-19 |  |
