@@ -44,7 +44,7 @@ Our initial design for this project consists of an enclosure made out foam board
 | 2-18-19 | This week we started to construct our walls in Solid Works |
 | 2-25-19 | We finished our walls and assembled the box on Solid Works |
 | 3-4-19  | This week we laser cut out walls, printed our parachute holders, and assembled the box to make sure it worked. It seems a little heavier than we wanted it to be, but with the right parachute, it will work perfectly. Update, we are going to use a parachute from istem people|
-| 3-11-19 |  |
+| 3-11-19 | The box was comletely assembled already and we did not need to make any corrections so we started to test different parachutes. At first we tried one parachute made out of an extremely large coffee filter, but that did not work. After that we tried to add four little parachutes to help, but that also didn't work. As of now we have one coffee filter parachute and one nylon parachute attached, which also did not work, but we are are going to get another nylon 'chute to help. |
 | 3-18-19 |  |
 | 3-25-19 |  |
 | 4-1-19  | Break |
