@@ -49,7 +49,7 @@ Our initial design for this project consists of an enclosure made out foam board
 | 3-25-19 | The code for our parachute-box-thing was started this week, however we did not get too far with it. We have the general idea of what we need to do but there are still some things that need to be worked out. |
 | 4-1-19  | Break |
 | 4-8-19  | We are continuing to work on the code for our project this week as we did not get too far the week before break. We are also continuing to tro to find a new parachute to use that fits exactly what we need. After looking at a bunch of different parachute companies it seems like a lot of them have not tested exactly how much weight the parachute can hold while still dropping slowly. Also, most parachutes that are the size we need are made for model rockets. This means that they do not need to fall as slowly as we would need it to because the model rockets are mostly plastic and could hit the ground hard and still be fine. Update, we figured out that instead of buying an expensive model rocket parachute we could possibly use a speed training parachute that is meant for running. They have much bigger sizes with better resistance and for much cheaper prices. |
-| 4-15-19 |  |
+| 4-15-19 | During this week we have been trying to work on the code but we have been having trouble figuring our how were going to move the accel data into a file. However, at this point I believe that we did figure out and are going to write that code and test it soon.   |
 | 4-22-19 |  |
 | 4-29-19 |  |
 | 5-6-19  |  |
