@@ -70,3 +70,10 @@ Our initial design for this project consists of an enclosure made out foam board
 | Accel X=-1.11, Accel Y=-0.05, Accel Z=9.68 |
 | Accel X=-1.13, Accel Y=-0.04, Accel Z=9.7 |
 | Accel X=-1.13, Accel Y=-0.09, Accel Z=9.66 |
+
+#### Pictures
+
+<p align="center">
+  <img width="300" height="500" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
+  <img width="300" height="500" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
+</p>
