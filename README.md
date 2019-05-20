@@ -57,3 +57,16 @@ Our initial design for this project consists of an enclosure made out foam board
 | 5-20-19 |  |
 | 5-27-19 |  |
 
+
+#### Data
+| collected data |
+| --- |
+| Accel X=-1.01, Accel Y=-0.03, Accel Z=8.46 |
+| Accel X=-1.07, Accel Y=-0.06, Accel Z=9.1 |
+| Accel X=-1.09, Accel Y=-0.05, Accel Z=9.4 |
+| Accel X=-1.09, Accel Y=-0.03, Accel Z=9.52 |
+| Accel X=-1.08, Accel Y=-0.03, Accel Z=9.58 |
+| Accel X=-1.09, Accel Y=-0.07, Accel Z=9.66 |
+| Accel X=-1.11, Accel Y=-0.05, Accel Z=9.68 |
+| Accel X=-1.13, Accel Y=-0.04, Accel Z=9.7 |
+| Accel X=-1.13, Accel Y=-0.09, Accel Z=9.66 |
