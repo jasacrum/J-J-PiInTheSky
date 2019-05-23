@@ -101,6 +101,7 @@ Our initial design for this project consists of an enclosure made out foam board
 <p align="left">
   <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
   <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
+  <video src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4228.TRIM.MOV" width="200" height="300" controls preload </video>
 </p>
 
 #### Difficulties Throughout
