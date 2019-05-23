@@ -76,7 +76,7 @@ Our initial design for this project consists of an enclosure made out foam board
 #### Code: [Link To Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
 
 #### Image of Wiring
-<p align="center
+<p align="center>
   <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4220.JPG">
 </p>
 
