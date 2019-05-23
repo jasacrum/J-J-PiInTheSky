@@ -36,6 +36,22 @@ Our initial design for this project consists of an enclosure made out foam board
 | 5-20-19 | Put everything together completely |
 | 5-27-19 | Done |
 
+# Final Project
+#### Materials
+- Raspberry Pi Zero
+- SD Card
+- LSM303 Accelerometer
+- Mini Bredboard
+- Parachute
+- Acrylic
+- 3D printed Material
+- Panel Mount Switch
+- 9v Battery
+- 7805CT 5V Voltage Regulator
+- Solder
+- #4-40 x 3/8" Socket Head Cap Screw and Machine Nuts
+- Wires
+
 
 #### Documentation
 
@@ -51,11 +67,18 @@ Our initial design for this project consists of an enclosure made out foam board
 | 4-8-19  | We are continuing to work on the code for our project this week as we did not get too far the week before break. We are also continuing to tro to find a new parachute to use that fits exactly what we need. After looking at a bunch of different parachute companies it seems like a lot of them have not tested exactly how much weight the parachute can hold while still dropping slowly. Also, most parachutes that are the size we need are made for model rockets. This means that they do not need to fall as slowly as we would need it to because the model rockets are mostly plastic and could hit the ground hard and still be fine. Update, we figured out that instead of buying an expensive model rocket parachute we could possibly use a speed training parachute that is meant for running. They have much bigger sizes with better resistance and for much cheaper prices. |
 | 4-15-19 | During this week we have been trying to work on the code but we have been having trouble figuring our how were going to move the accel data into a file. However, at this point I believe that we did figure out and are going to write that code and test it soon.   |
 | 4-22-19 | This week we kept working on the code, fixing and adjusting what we needed to. |
-| 4-29-19 |  |
-| 5-6-19  |  |
-| 5-13-19 |  |
-| 5-20-19 |  |
-| 5-27-19 |  |
+| 4-29-19 | This week was occupied by finishing the code and prepping our project to be tested  |
+| 5-6-19  | This week was full of AP tests, so not much work was done. However, our project was completed up tp the final test and documentation. |
+| 5-13-19 | We collected acceleration data this week by dropping our project off of a bridge. The parachute ended up working perfectly for our box, which was unexpected.
+| 5-20-19 | This week is being spent finishing the Documentation and Github page (this page) for the project.
+
+
+#### Code: [Link To Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
+
+#### Image of Wiring
+<p align="center
+  <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4220.JPG">
+</p>
 
 
 #### Data
@@ -73,7 +96,7 @@ Our initial design for this project consists of an enclosure made out foam board
 
 #### In Flight Pictures
 
-<p align="center">
-  <img width="300" height="500" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
-  <img width="300" height="500" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
+<p align="left">
+  <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
+  <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
 </p>
