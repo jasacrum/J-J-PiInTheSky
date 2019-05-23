@@ -103,4 +103,4 @@ Our initial design for this project consists of an enclosure made out foam board
   <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
 </p>
 
-#### 
+#### Difficulties Throughout
