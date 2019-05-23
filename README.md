@@ -36,9 +36,14 @@ Our initial design for this project consists of an enclosure made out foam board
 | 5-20-19 | Put everything together completely |
 | 5-27-19 | Done |
 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/Capture.PNG" Image of Solid Works rendering>
+</p>
+
 # Final Project
+
 #### Materials
-- Raspberry Pi Zero
+- Raspberry Pi Zero  
 - SD Card
 - LSM303 Accelerometer
 - Mini Bredboard
@@ -51,7 +56,6 @@ Our initial design for this project consists of an enclosure made out foam board
 - Solder
 - #4-40 x 3/8" Socket Head Cap Screw and Machine Nuts
 - Wires
-
 
 #### Documentation
 
@@ -70,18 +74,16 @@ Our initial design for this project consists of an enclosure made out foam board
 | 4-29-19 | This week was occupied by finishing the code and prepping our project to be tested  |
 | 5-6-19  | This week was full of AP tests, so not much work was done. However, our project was completed up tp the final test and documentation. |
 | 5-13-19 | We collected acceleration data this week by dropping our project off of a bridge. The parachute ended up working perfectly for our box, which was unexpected.
-| 5-20-19 | This week is being spent finishing the Documentation and Github page (this page) for the project.
+| 5-20-19 | This is being spent finishing the Documentation and Github page (this page) for the project.
 
 
 #### Code: [Link To Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
 
-#### Image of Wiring
-<p align="right">
-  <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4220.JPG">
-</p>
+#### Image of Wiring: [Link to up-close image of wiring](https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4220.JPG)
 
 
 #### Data
+
 | collected data |
 | --- |
 | Accel X=-1.01, Accel Y=-0.03, Accel Z=8.46 |
@@ -100,3 +102,5 @@ Our initial design for this project consists of an enclosure made out foam board
   <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
   <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
 </p>
+
+#### 
