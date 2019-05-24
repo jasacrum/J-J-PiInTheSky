@@ -99,9 +99,11 @@ Our initial design for this project consists of an enclosure made out foam board
 #### In Flight Pictures
 
 <p align="left">
-  <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
-  <img width="200" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
-  <video src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4228.TRIM.MOV" width="200" height="300" controls preload </video>
+  <img width="270" height="480" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
+  <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/giphy.gif">
+  <img width="270" height="480" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
 </p>
+
+
 
 #### Difficulties Throughout
