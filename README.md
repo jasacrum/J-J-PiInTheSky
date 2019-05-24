@@ -13,6 +13,8 @@ Our initial design for this project consists of an enclosure made out foam board
 
 <p align="center">
   <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
+</p>
+<p align="center">
   <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
 </p>
 
@@ -20,7 +22,7 @@ Our initial design for this project consists of an enclosure made out foam board
 
 <p align="left">
   <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table1.PNG">
-  <img width="300" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/Capture.PNG" Image of Solid Works rendering>
+  <img width="300" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/Capture.PNG">
 </p>
 
 # Final Project
@@ -67,17 +69,10 @@ Our initial design for this project consists of an enclosure made out foam board
 
 #### Data
 
-| collected data |
-| --- |
-| Accel X=-1.01, Accel Y=-0.03, Accel Z=8.46 |
-| Accel X=-1.07, Accel Y=-0.06, Accel Z=9.1 |
-| Accel X=-1.09, Accel Y=-0.05, Accel Z=9.4 |
-| Accel X=-1.09, Accel Y=-0.03, Accel Z=9.52 |
-| Accel X=-1.08, Accel Y=-0.03, Accel Z=9.58 |
-| Accel X=-1.09, Accel Y=-0.07, Accel Z=9.66 |
-| Accel X=-1.11, Accel Y=-0.05, Accel Z=9.68 |
-| Accel X=-1.13, Accel Y=-0.04, Accel Z=9.7 |
-| Accel X=-1.13, Accel Y=-0.09, Accel Z=9.66 |
+<p align="left">
+  <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table2.PNG">
+  <img align="right" width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/giphy.gif">
+</p>
 
 #### In Flight Pictures
 
