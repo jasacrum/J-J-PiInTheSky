@@ -32,7 +32,7 @@ Our initial design for this project consists of an enclosure made out foam board
 | --- | --- |
 | 2-18-19 | This week we started to construct our walls in Solid Works |
 | 2-25-19 | We finished our walls and assembled the box on Solid Works |
-| 3-4-19  | This week we laser cut out walls, printed our parachute holders, and assembled the box to make sure it worked. It seems a little heavier than we wanted it to be, but with the right parachute, it will work perfectly. Update, we are going to use a parachute from istem people|
+| 3-4-19  | This week we laser cut out walls, printed our parachute holders, and assembled the box to make sure it worked. It seems a little heavier than we wanted it to be, but with the right parachute, it will work perfectly. Update, we are going to try to use a parachute from istem people|
 | 3-11-19 | The box was comletely assembled already and we did not need to make any corrections so we started to test different parachutes. At first we tried one parachute made out of an extremely large coffee filter, but that did not work. After that we tried to add four little parachutes to help, but that also didn't work. As of now we have one coffee filter parachute and one nylon parachute attached, which also did not work, but we are are going to get another nylon 'chute to help. |
 | 3-18-19 |This week we kept testing more variations of our parachute and decided that we are going to end up having to buy a another real parachute for this to work. We also put everything in our box and wired it all up.  |
 | 3-25-19 | The code for our parachute-box-thing was started this week, however we did not get too far with it. We have the general idea of what we need to do but there are still some things that need to be worked out. |
@@ -43,7 +43,7 @@ Our initial design for this project consists of an enclosure made out foam board
 | 4-29-19 | This week was occupied by finishing the code and prepping our project to be tested  |
 | 5-6-19  | This week was full of AP tests, so not much work was done. However, our project was completed up tp the final test and documentation. |
 | 5-13-19 | We collected acceleration data this week by dropping our project off of a bridge. The parachute ended up working perfectly for our box, which was unexpected.
-| 5-20-19 | This is being spent finishing the Documentation and Github page (this page) for the project.
+| 5-20-19 | This week is being spent finishing the Documentation and Github page (this page) for the project.
 
 
 #### Final Code: [Link To Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
@@ -57,7 +57,7 @@ Our initial design for this project consists of an enclosure made out foam board
   <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table2.PNG">
 </p>
 
-#### In Flight Pictures:
+#### In Flight Captures:
 
 <p align="left">
   <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
@@ -68,4 +68,6 @@ Our initial design for this project consists of an enclosure made out foam board
 
 
 #### Difficulties Throughout:
+
+The greatest mistake/problem that I had during this project was with the parachute. I wanted to make the enclosure for the Pi out of acrylic, but acrylic is much heavier than the foamboard we were suggested to use. The first test parachute that was used was one that I tried to construct myself out of an enormous coffee filter. This did not work at all, however, so another option was needed. A model rocket parachute was lent to me by Jack Timmins to use, but this one didn't seem to work either. I began to do a lot of research into parachutes and sizes needed for certain weights (This is discussed in documentation as well), but it seemed hopeless from what I was seeing. All of the information I was reading was saying that the parachute would fall very fast and this would end up breaking the enclosure. A thought even came up to buy a speed running parachute to try, but this never ended up happening because I did not have any money at the time. All of these problems were a result of one mistake; The parachute was being tested from the second story of CHS, but was never tested from a greater height. My partner and I finally ended up just going for it and dropped the project off of a bridge that was much higher, and the parachute lent by Jack worked perfectly. If this test had been done earlier it would have saved loads of time and stress. In addition to this problem, we had the usual errors with wiring, code, and other similar things that wouldn't smash our project into pieces if they occured (an innefective parachute would have done so). During any project like this (ones that involve wires, code, batteries, etc.) you will come across these type of errors. The only way to fix and prevent further problems is to "measure twice cut once" and to get help from teachers, other classmates, or anyone that is available, which is what we did. Dr. Shields helped us throughout the project to fix all of our problems.
 
