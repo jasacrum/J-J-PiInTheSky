@@ -15,8 +15,8 @@ Our initial design for this project consists of an enclosure made out foam board
 
 <p align="left">
   <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table1.PNG">
-  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
-  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
+  <img width="200" height="333.3333" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
+  <img width="200" height="333.3333" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
 </p>
 
 # Final Project
@@ -46,7 +46,7 @@ Our initial design for this project consists of an enclosure made out foam board
 | 5-20-19 | This is being spent finishing the Documentation and Github page (this page) for the project.
 
 
-#### Code: [Link To Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
+#### Final Code: [Link To Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
 
 #### Image of Wiring: [Link to up-close image of wiring](https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4220.JPG)
 
@@ -55,7 +55,6 @@ Our initial design for this project consists of an enclosure made out foam board
 
 <p align="left">
   <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table2.PNG">
-  <img align="right" width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/giphy.gif">
 </p>
 
 #### In Flight Pictures
