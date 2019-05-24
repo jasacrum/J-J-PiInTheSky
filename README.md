@@ -15,25 +15,16 @@ Our initial design for this project consists of an enclosure made out foam board
 
 <p align="left">
   <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table1.PNG">
-  <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/new.PNG">
+  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
+  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
 </p>
 
 # Final Project
 
-#### Materials
-- Raspberry Pi Zero  
-- SD Card
-- LSM303 Accelerometer
-- Mini Bredboard
-- Parachute
-- Acrylic
-- 3D printed Material
-- Panel Mount Switch
-- 9v Battery
-- 7805CT 5V Voltage Regulator
-- Solder
-- #4-40 x 3/8" Socket Head Cap Screw and Machine Nuts
-- Wires
+<p align="left">
+  <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/mat.PNG">
+  <img width="400" height="400" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/Capture.PNG">
+</p>
 
 #### Documentation
 
