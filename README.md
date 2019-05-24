@@ -49,9 +49,9 @@
 | 5-20-19 | This week is being spent finishing the Documentation and Github page (this page) for the project.
 
 
-#### Final Code: [Link To Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
+#### Final Code: [Click for the Commented Code](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/piinthesky.py) 
 
-#### Image of Wiring: [Link to up-close image of wiring](https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4220.JPG)
+#### Image of Wiring: [Click for up-close image of wiring](https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4220.JPG)
 
 
 #### Data:
