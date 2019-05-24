@@ -12,31 +12,14 @@ The resources we have available to us for this project are anything from the CHS
 Our initial design for this project consists of an enclosure made out foam board. This enclosure will hold all of the components of our project in place. On top of the enclosure a parachute will be attached to slow down the fall of the Pi while it descends back to the ground. Future additions may include putting the parachute into a cap that, when it is at the vertext of it's flight, releases the parachute out. This would stand in place of just having the parachute freely attached to the top. 
 
 <p align="center">
-  <img width="300" height="500" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
-  <img width="300" height="500" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
+  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
+  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
 </p>
 
 #### Projected Schedule
 
-| Date | Goal |
-| --- | --- |
-| 2-18-19 | Begin solidworks design |
-| 2-25-19 | Keep working on solidoworks design |
-| 3-4-19  | Finish solidworks |
-| 3-11-19 | Make any corrections to the box and start code |
-| 3-18-19 | Continue working on code |
-| 3-25-19 | Start to fully assemble the box |
-| 4-1-19  | Break |
-| 4-8-19  | More fixing unexpected errors |
-| 4-15-19 | Completely assemble the box |
-| 4-22-19 | Test the parachute |
-| 4-29-19 | Test the code and fix errors |
-| 5-6-19  | Keep testing code |
-| 5-13-19 | Finish code |
-| 5-20-19 | Put everything together completely |
-| 5-27-19 | Done |
-
-<p align="center">
+<p align="left">
+  <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table1.PNG">
   <img width="300" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/Capture.PNG" Image of Solid Works rendering>
 </p>
 
@@ -99,9 +82,9 @@ Our initial design for this project consists of an enclosure made out foam board
 #### In Flight Pictures
 
 <p align="left">
-  <img width="270" height="480" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
-  <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/giphy.gif">
-  <img width="270" height="480" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
+  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed (1).jpg">
+  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/giphy.gif">
+  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/unnamed.jpg">
 </p>
 
 
