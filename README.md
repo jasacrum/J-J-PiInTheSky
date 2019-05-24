@@ -11,18 +11,11 @@ The resources we have available to us for this project are anything from the CHS
 #### Initial Design
 Our initial design for this project consists of an enclosure made out foam board. This enclosure will hold all of the components of our project in place. On top of the enclosure a parachute will be attached to slow down the fall of the Pi while it descends back to the ground. Future additions may include putting the parachute into a cap that, when it is at the vertext of it's flight, releases the parachute out. This would stand in place of just having the parachute freely attached to the top. 
 
-<p align="center">
-  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_4080.JPG">
-</p>
-<p align="center">
-  <img width="225" height="375" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/IMG_8935.jpg">
-</p>
-
 #### Projected Schedule
 
 <p align="left">
   <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/table1.PNG">
-  <img width="300" height="300" src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/Capture.PNG">
+  <img src="https://github.com/jasacrum/J-J-PiInTheSky/blob/master/new.PNG">
 </p>
 
 # Final Project
